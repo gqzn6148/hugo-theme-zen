@@ -263,7 +263,7 @@ body {
   padding: 10px;
   border-width: 1px;
   border-style: solid;
-  width: 95%;
+  width: 92%;
 
   &.status {
     background-color: color(status-bg);
@@ -300,7 +300,7 @@ body {
   input,
   textarea {
     @include margin-bottom(.75);
-    width: 95%;
+    width: 92%;
 
     &:required+span::after {
       content: ' *';
