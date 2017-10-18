@@ -22,12 +22,12 @@ This is a port of that theme for [Hugo :: A fast and modern static website engin
 
 ## On the large screen
 
-![screenshot](https://raw.githubusercontent.com/frjo/hugo-theme-zen/master/images/tn.png)
+![screenshot](https://raw.githubusercontent.com/frjo/hugo-theme-zen/old/images/tn.png)
 
 
 ## On the small screen
 
-![screenshot](https://raw.githubusercontent.com/frjo/hugo-theme-zen/master/images/tn_mobil.png)
+![screenshot](https://raw.githubusercontent.com/frjo/hugo-theme-zen/old/images/tn_mobil.png)
 
 
 ## Installation
